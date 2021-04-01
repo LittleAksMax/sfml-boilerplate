@@ -1,0 +1,1 @@
+sudo ./bin/SFML-setup.exe
